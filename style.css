@@ -27,4 +27,32 @@ ul li {
 span {
   font-weight: bold;
   text-decoration: underline;
+  text-decoration-color: yellow
+}
+.pic1 {
+
+  display: inline-block;
+  text-align: justify;
+}
+
+.row1 {
+
+  display: inline-block;
+  text-align: center;
+}
+
+.row1 {
+    text-align: justify;
+    width: 50px;
+}
+
+.row1 img {
+    display: block;
+    margin: 0 auto;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
 }
