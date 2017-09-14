@@ -1,0 +1,30 @@
+h1 {
+  background-color: RGB(38,38,38);
+  color: white;
+  text-align: center;
+  border: 500px;
+}
+nav {
+
+  color: rgb(254, 254, 254);
+  text-align: center;
+}
+ul {
+  list-style: none;
+}
+
+ul li {
+  display: inline-block;
+  background-color: RGB(201,201,201);
+}
+
+.Pictures-below{
+  background-color: RGB(110, 247, 197);
+  font-size: 30px;
+
+}
+
+span {
+  font-weight: bold;
+  text-decoration: underline;
+}
